@@ -2,7 +2,7 @@
 -
 Sergio Carrera 
 Stefany Tobar 
-
+-
 
 Misión y Visión: 
 
@@ -28,7 +28,7 @@ Por momento estos son nuestros componentes en mente, para usar:
 -1 Placa Arduino Uno 
 -1 ServoMotor 
 -4 LLantas de goma 
-
+-1 Gyro Sensor 
 
 El código está diseñado para cumplir con los objetivos establecidos en la pista de Future Engineers - WRO Guatemala, con la meta de ganar la competencia nacional el próximo 30 de agosto de 2025 y representar a Guatemala en la competencia internacional en Singapur este mismo año.
 
@@ -37,4 +37,4 @@ Hemos enfrentado algunas complicaciones, especialmente con el tiempo de desarrol
 
 
 Este es nuestro progreso hasta la fecha. Estaremos actualizando este README periódicamente para documentar nuestros avances y compartir el desarrollo continuo de nuestro prototipo.
--
+
