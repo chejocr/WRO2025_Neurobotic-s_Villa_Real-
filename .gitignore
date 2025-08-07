@@ -1,0 +1,47 @@
+# === Arduino ===
+*.elf
+*.hex
+*.bin
+*.eep
+*.dep
+*.d
+*.o
+*.a
+*.map
+*.lst
+*.obj
+*.cpp.d
+*.ino.cpp
+
+# Arduino libraries build folder
+/libraries/
+
+# === Archivos del sistema ===
+.DS_Store
+Thumbs.db
+
+# === Archivos temporales o backups ===
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+~$*
+
+# === VS Code ===
+.vscode/
+
+# === Python (si usas procesamiento o visión con ESP32-CAM o similar) ===
+__pycache__/
+*.py[cod]
+venv/
+
+# === Node.js (si usas panel web) ===
+node_modules/
+dist/
+.env
+
+# === Documentos generados (PDF, DOCX, etc.) ===
+*.pdf
+*.docx
+*.odt
